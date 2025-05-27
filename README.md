@@ -13,3 +13,5 @@ print ("Hello NF")
 print ("Hello NF")
 print ("Hello NF")
 ```
+
+![Photo Daria Bystrova.jpeg]
