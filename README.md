@@ -8,4 +8,8 @@ Another explanation
 * Bullet Point 2
 * Bullet Point 3
 
-  
+``` three backticks intiate a code
+print ("Hello NF")
+print ("Hello NF")
+print ("Hello NF")
+```
