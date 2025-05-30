@@ -5,8 +5,6 @@ I will create a merge conflict
 Another explanation
 
 * Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
 
 ``` three backticks intiate a code
 print ("Hello NF")
