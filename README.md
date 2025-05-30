@@ -5,6 +5,7 @@ I will create a merge conflict
 Another explanation
 
 * Bullet Point 1
+* I added this line in Repository
 
 ``` three backticks intiate a code
 print ("Hello NF")
